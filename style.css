@@ -1,0 +1,18 @@
+*{
+    background-color: rgba(238, 159, 227, 0.2);
+}
+h1{
+    text-align: center;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100px;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+li{
+    font-family:  monospace;
+    font-size: 20px;
+    color: black;
+}

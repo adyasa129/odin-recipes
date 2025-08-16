@@ -5,10 +5,13 @@
 h1{
     text-align: center;
     text-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100px;
+    margin : 20px;
 }
 .ab{
     display:block;
-    margin:  auto;
+    margin:0 auto;
     width: 400px;
     height: auto;
    
@@ -19,4 +22,13 @@ h2{
 }
 h3{
     color: rgb(101, 101, 245);
+}
+p,
+li{
+    font-family:'courier', monospace;
+}
+.mo{
+    display: block;
+    margin:40px 30px;
+    font-family:'courier', monospace;
 }
