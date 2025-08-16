@@ -26,6 +26,7 @@ h3{
 p,
 li{
     font-family:'courier', monospace;
+    margin:0 30px;
 }
 .mo{
     display: block;
