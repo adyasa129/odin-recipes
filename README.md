@@ -26,4 +26,4 @@ It is a simple recipe website built in two phases:
 
 ---
 
-## 📂 Project Structure  
+
